@@ -1,0 +1,22 @@
+{
+  "name": "react-native-detail-section",
+  "version": "0.2.0",
+  "description": "React Native ",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "ui"
+  ],
+  "repository": "https://github.com/andresmichel/react-native-detail-section",
+  "author": "Andres Michel",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
